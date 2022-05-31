@@ -1,7 +1,7 @@
 {
-    "name": "Raganork MD",
-    "description": "multi device based WhatsApp Public/User bot.",
-    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
+    "name": "CLORETS-BOT",
+    "description": "Whatsapp bot Made by CLORETS.",
+    "logo": "https://imgur.com/cPIAABl.jpeg",
     "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/souravkl11/Raganork",
     "website":   "https://bit.ly/Raganork",
@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"CLORETS-BOT"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -56,7 +56,7 @@
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
+            "value":"CLORETS-BOT;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
         },
         "MODE": {
             "description": "Private or public",
@@ -66,12 +66,12 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"212607468346"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
             "required": false,
-            "value":"```I am alive since {uptime}```"
+            "value":"```CLORETS-BOT alive since {uptime}```"
         },
        "SESSION": {
             "description": "Your MD session",
